@@ -1,11 +1,16 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Minh%20Tri&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Minh%20Tri&fontSize=90" />
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,rust,aws,docker,linux,githubactions,postgres,vscode)](https://skillicons.dev)
+<hr>
+<p align="center">
+  :mortar_board: Electrical engineer technology :bird: :electric_plug: <br>
+  :gear: Aspiring engineer and entreprenuer
+</p>
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhTri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhTri&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,rust,c,vscode,js" />
+  </a>
 </p>
